@@ -1,0 +1,10 @@
+{
+  "name": "litduino",
+  "version": "1.0.0",
+  "description": "nodeJS and Arduino",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "latest"
+  }
+}
